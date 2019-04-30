@@ -35,10 +35,11 @@ Google Places API for more information about that specific business and launches
 #### Permissions Activity
 This screen is displayed upon initial launch and will persist until the user has allowed both Camera and Location permissions. If the user denies either and selects the "Do not ask again" option, the Permissions Activity will supply a direct link into Settings -> App Permissions -> Third Eye to allow the user to manually enable the required permissions.
 
-#### *API_KEY REQUIRED!*
-The following line must be added to your gradle.properties file:
+#### Screenshots
+![](1.png)
+![](2.png)
+![](3.png)
+![](5.png)
 
-`API_KEY="insert-your-api-key-here"`
 
-You may obtain a Google Places API key at https://developers.google.com/places/web-service/get-api-key
 
